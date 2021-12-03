@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science,ML,Web Mining,Cloud computing and bio informatics.
 - 🌱 I’m currently learning Data science and cloud computing.
 
-- 📫 How to reach me https://www.linkedin.com/in/sreelatha03/
+- 📫 reach me https://www.linkedin.com/in/sreelatha03/
       mail id : gounipallesreelatha@gmail.com
 
 <!---
