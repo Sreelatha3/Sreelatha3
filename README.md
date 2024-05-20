@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sreelatha3
-- 👀 I’m interested in Data science,ML,Web Mining,Cloud computing and bio informatics.
+- 👀 I’m interested in Data science,ML,DataEngineering
 - 🌱 I’m currently learning Data science and cloud computing.
 
 - 📫 reach me https://www.linkedin.com/in/sreelatha03/
